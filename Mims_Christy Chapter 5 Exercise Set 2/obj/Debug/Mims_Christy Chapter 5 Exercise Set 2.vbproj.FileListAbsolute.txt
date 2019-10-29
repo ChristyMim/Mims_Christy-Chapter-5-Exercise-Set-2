@@ -1,0 +1,11 @@
+E:\vbp\Mims_Christy Chapter 5 Exercise Set 2\Mims_Christy Chapter 5 Exercise Set 2\bin\Debug\Mims_Christy Chapter 5 Exercise Set 2.exe.config
+E:\vbp\Mims_Christy Chapter 5 Exercise Set 2\Mims_Christy Chapter 5 Exercise Set 2\bin\Debug\Mims_Christy Chapter 5 Exercise Set 2.exe
+E:\vbp\Mims_Christy Chapter 5 Exercise Set 2\Mims_Christy Chapter 5 Exercise Set 2\bin\Debug\Mims_Christy Chapter 5 Exercise Set 2.pdb
+E:\vbp\Mims_Christy Chapter 5 Exercise Set 2\Mims_Christy Chapter 5 Exercise Set 2\bin\Debug\Mims_Christy Chapter 5 Exercise Set 2.xml
+E:\vbp\Mims_Christy Chapter 5 Exercise Set 2\Mims_Christy Chapter 5 Exercise Set 2\obj\Debug\Mims_Christy Chapter 5 Exercise Set 2.vbprojResolveAssemblyReference.cache
+E:\vbp\Mims_Christy Chapter 5 Exercise Set 2\Mims_Christy Chapter 5 Exercise Set 2\obj\Debug\Mims_Christy_Chapter_5_Exercise_Set_2.Resources.resources
+E:\vbp\Mims_Christy Chapter 5 Exercise Set 2\Mims_Christy Chapter 5 Exercise Set 2\obj\Debug\Mims_Christy Chapter 5 Exercise Set 2.vbproj.GenerateResource.Cache
+E:\vbp\Mims_Christy Chapter 5 Exercise Set 2\Mims_Christy Chapter 5 Exercise Set 2\obj\Debug\Mims_Christy Chapter 5 Exercise Set 2.exe
+E:\vbp\Mims_Christy Chapter 5 Exercise Set 2\Mims_Christy Chapter 5 Exercise Set 2\obj\Debug\Mims_Christy Chapter 5 Exercise Set 2.xml
+E:\vbp\Mims_Christy Chapter 5 Exercise Set 2\Mims_Christy Chapter 5 Exercise Set 2\obj\Debug\Mims_Christy Chapter 5 Exercise Set 2.pdb
+E:\vbp\Mims_Christy Chapter 5 Exercise Set 2\Mims_Christy Chapter 5 Exercise Set 2\obj\Debug\Mims_Christy_Chapter_5_Exercise_Set_2.frmChapter5ExercisesSet2.resources
